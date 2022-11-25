@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chetnashahi03@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hZgrOl_991oxiuq0gk2hyJF9q1SSFJoq/view?usp=sharing)<!--- (https://drive.google.com/file/d/1wpelXoWIhnqLJe8itEyC2hZLzIIYntAb/view) --->
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hZgrOl_991oxiuq0gk2hyJF9q1SSFJoq/view)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -52,4 +52,5 @@ You can click the Preview link to take a look at your changes.
 https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=1050&h=360&mode=max?max-width=100%;&quality=70&scale=both
 https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif
 
+ (https://drive.google.com/file/d/1wpelXoWIhnqLJe8itEyC2hZLzIIYntAb/view)
 --->
