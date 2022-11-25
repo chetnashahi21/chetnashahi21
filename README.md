@@ -1,20 +1,14 @@
 [![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)](chetnashahi123.github.io)
 <h1 align="center">Hi 👋, I'm Chetna Shahi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" height="393"  style="box-sizing : inherit;" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/26/cd/60/26cd609483e5dd157bf4dbe279ad6fbe.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetnashahi21&label=Profile%20views&color=0e75b6&style=flat" alt="chetnashahi21" /> </p>
-
- <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetnashahi21" alt="chetnashahi21" /></a> </p> 
-
-https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=1050&h=360&mode=max?max-width=100%;&quality=70&scale=both
---->
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **ReactJs, Javascript, jQuery, NodeJs, GraphQL,MySQL**
 
-- 👀 I’m interested in **ReactJs, Javascript, jQuery, NodeJs, Laravel (PHP) programming languages and GraphQL API's, including atabases like MySQL.**
+- 👀 I’m interested in **ReactJs, Javascript, jQuery, NodeJs, Laravel (PHP) programming languages and GraphQL API's, including databases like MySQL.**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -50,4 +44,9 @@ https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=1050&h=360
 <!---
 chetnashahi21/chetnashahi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetnashahi21" alt="chetnashahi21" /></a> </p> 
+https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=1050&h=360&mode=max?max-width=100%;&quality=70&scale=both
+https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif
+--->
 --->
