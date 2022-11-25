@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetna Shahi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ReactJs, Javascript, jQuery, NodeJs, Laravel (PHP) programming languages and GraphQL API's and databases like MySQL.
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on good opportunities.
 - 📫 How to reach me chetnashahi03@gmail.com
 
 <!---
