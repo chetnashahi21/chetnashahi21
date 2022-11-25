@@ -1,7 +1,7 @@
 [![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)](chetnashahi123.github.io)
 <h1 align="center">Hi 👋, I'm Chetna Shahi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" height="393" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+<img align="right" alt="coding" width="400" height="393"  style="box-sizing : inherit;" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetnashahi21&label=Profile%20views&color=0e75b6&style=flat" alt="chetnashahi21" /> </p>
 
