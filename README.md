@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **good opportunities**
 
-- 👨‍💻 All of my projects are available at [abc](abc)
+<!--- - 👨‍💻 All of my projects are available at [abc](abc) --->
 
 - 💬 Ask me about **ReactJs, Javascript, jQuery, NodeJs, GraphQL, MySQL**
 
