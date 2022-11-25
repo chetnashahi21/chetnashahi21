@@ -50,5 +50,5 @@ You can click the Preview link to take a look at your changes.
  <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetnashahi21" alt="chetnashahi21" /></a> </p> 
 https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=1050&h=360&mode=max?max-width=100%;&quality=70&scale=both
 https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif
---->
+
 --->
