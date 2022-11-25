@@ -1,4 +1,4 @@
-[![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)](chetnashahi123.github.io)
+[![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)](https://chetnashahi123.github.io)
 <h1 align="center">Hi 👋, I'm Chetna Shahi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/26/cd/60/26cd609483e5dd157bf4dbe279ad6fbe.gif"> 
