@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chetnashahi03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wpelXoWIhnqLJe8itEyC2hZLzIIYntAb/view](https://drive.google.com/file/d/1wpelXoWIhnqLJe8itEyC2hZLzIIYntAb/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wpelXoWIhnqLJe8itEyC2hZLzIIYntAb/view)
 
 - ⚡ Fun fact **I think I am funny**
 
